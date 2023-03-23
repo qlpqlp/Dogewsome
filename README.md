@@ -1,7 +1,7 @@
 <h1 align="center">
-Ðogesome Font for Ðogecoin
+Ðogewsome Font for Ðogecoin
 <br><br>
-<img src="https://dogegarden.com/img/dogewsome.png" alt="Ðogesome Font for Ðogecoin" />
+<img src="https://dogegarden.com/img/dogewsome.png" alt="Ðogewsome Font for Ðogecoin" />
 <br><br>
 </h1>
 
