@@ -13,8 +13,8 @@ Add an extra doge feeling to your website with this font
 
 2- Upload the folder and css file to your server
 
-3- Add the css style to your website header ```<link rel="stylesheet" href="css/css/dogewsome.css" type="text/css" charset="utf-8" crossorigin="anonymous">```
+3- Add the css style to your website header ```<link rel="stylesheet" href="css/dogewsome.css" type="text/css" charset="utf-8" crossorigin="anonymous">```
 
 ## Using CDN
 
-Add the css style to your website header ```<link rel="stylesheet" href="http://cdn.dogegarden.com/css/css/dogewsome.css" type="text/css" charset="utf-8" crossorigin="anonymous">```
+Add the css style to your website header ```<link rel="stylesheet" href="http://cdn.dogegarden.com/css/dogewsome.css" type="text/css" charset="utf-8" crossorigin="anonymous">```
